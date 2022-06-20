@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GDImplementation/GDImplementation.iml" filepath="$PROJECT_DIR$/GDImplementation/GDImplementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LFImplementation/LFImplementation.iml" filepath="$PROJECT_DIR$/LFImplementation/LFImplementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SK-Projekat.iml" filepath="$PROJECT_DIR$/.idea/SK-Projekat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StorageSpec/StorageSpec.iml" filepath="$PROJECT_DIR$/StorageSpec/StorageSpec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StorageTest/StorageTest.iml" filepath="$PROJECT_DIR$/StorageTest/StorageTest.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+# Project exclude paths
+/LFImplementation/target/
+/StorageSpec/target/
+/StorageTest/target/
